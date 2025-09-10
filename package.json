@@ -43,7 +43,7 @@
     "inject-ga": "^0.2.4",
     "lint-staged": "^10.2.9",
     "marshmallow": "latest",
-    "nyc": "^15.1.0",
+    "nyc": "^17.1.0",
     "prettier-standard": "^16.3.0",
     "rimraf": "^3.0.2"
   },
