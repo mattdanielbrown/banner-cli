@@ -41,7 +41,7 @@
     "boeing": "latest",
     "husky": "^4.2.5",
     "inject-ga": "^0.2.4",
-    "lint-staged": "^10.2.9",
+    "lint-staged": "^16.1.5",
     "marshmallow": "latest",
     "nyc": "^15.1.0",
     "prettier-standard": "^16.3.0",
