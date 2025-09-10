@@ -39,7 +39,7 @@
   "devDependencies": {
     "ava": "^3.8.2",
     "boeing": "latest",
-    "husky": "^4.2.5",
+    "husky": "^9.1.7",
     "inject-ga": "^0.2.4",
     "lint-staged": "^10.2.9",
     "marshmallow": "latest",
